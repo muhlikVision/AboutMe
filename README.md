@@ -55,15 +55,6 @@ A cross-platform mobile and web application built with Flutter and Dart. Utilize
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhlikVision&show_icons=true&theme=radical" alt="Saleh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhlikVision&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh5617/)
