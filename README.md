@@ -2,7 +2,7 @@
 
 ### AI-Focused Software Engineer | Full-Stack | Web3 Architect
 
-I am a First-Class MSc Computer Science graduate from Middlesex University with a strong focus on integrating in-demand Artificial Intelligence and Machine Learning technologies into scalable full-stack applications. 
+I am a MSc Computer Science graduate from Middlesex University with a strong focus on integrating in-demand Artificial Intelligence and Machine Learning technologies into scalable full-stack applications. 
 
 From leveraging Generative AI (like Google Gemini) and predictive ML models to engineering decentralized smart contracts and cross-platform ecosystems, I am passionate about building intelligent, future-proof solutions. I love solving complex problems by bridging the gap between cutting-edge AI, modern data architecture, and seamless user experiences.
 
