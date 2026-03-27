@@ -1,6 +1,6 @@
-# Hi there, I'm Muhammad Saleh 👋
+# Hi there, I'm M. Saleh 👋
 
-### AI-Focused Software Engineer | Full-Stack | Web3 Architect
+### AI-Focused Software Engineer | Full-Stack 
 
 I am a MSc Computer Science graduate from Middlesex University with a strong focus on integrating in-demand Artificial Intelligence and Machine Learning technologies into scalable full-stack applications. 
 
